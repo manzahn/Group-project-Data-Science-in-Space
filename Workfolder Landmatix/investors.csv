@@ -3353,7 +3353,7 @@ comprise the purchase and sale of properties, land, buildings and real estate in
 35627;Unknown (Complant);Benin;Private company;;;
 35629;Unknown (Green Waves);Benin;Private company;;;
 35631;Unknown (Betexco);Benin;Private company;;;
-35636;Faso Biocarburant;Burkina Faso;Private company;;;
+35636;SolVert;Burkina Faso;Private company;;;The company rebranded to its new name SolVert. SolVert, also short for Solution Vert (Green Solution)from Faso Biocarburant.
 35638;Olam Palm Gabon SA;Gabon;Private company;;;
 35641;SucrIvoire;Côte d'Ivoire;Private company;;;23% of the shares are listed on the Bourse Regionale des Valeurs Mobilieres or BRVM.
 35642;Jatroci;Côte d'Ivoire;Private company;;;
@@ -4218,7 +4218,7 @@ Source: https://www.youtube.com/watch?v=nJMX7G9TAKw"
 37326;Okena Goto Karato Development Corporation Ltd;Papua New Guinea;Private company;;;
 37327;One Uni-Development Ltd;Papua New Guinea;Private company;;;
 37328;Brilliant Investment Limited;Papua New Guinea;Private company;;;
-37329;Katanga Mining Limited;Congo, Dem. Rep.;Private company;;;
+37329;Katanga Mining Limited;Congo, Dem. Rep.;Private company;https://www.katangamining.com/;;On June 4, 2020, Katanga Mining Limited (TSX:KAT) became a 100% Glencore group owned company and ceased to be listed on the Toronto Stock Exchange.
 37335;Triton Minera SA.;Nicaragua;Private company;;;
 37336;Agricultural Development Company of Angola;Angola;Private company;;;
 37337;Unknown (Aurantia);Congo, Rep.;Private company;;;
@@ -6301,7 +6301,7 @@ EUID	ROONRC.J2013000247092"
 39869;Green Fuel Limited in Zimbabwe;Zimbabwe;Private company;;;
 39870;Tompkins Conservation in Argentina;Argentina;Private company;;;
 39871;Tompkins Conservation in Chile;Chile;Private company;;;
-39872;D1 Oils Ghana Pty Limited in Zambia;Zambia;Private company;;;
+39872;D1 Oils Plant Science Zambia Limited;Zambia;Private company;;;
 39873;D1 Oils Ghana Pty Limited in Ghana;Ghana;Private company;;;
 39874;D1 Oils Ghana Pty Limited in Malawi;Malawi;Private company;;;
 39875;Unknown (Agri SA, in Angola, 39875);Angola;Private company;;;
@@ -10596,7 +10596,7 @@ La excelencia de nuestros recursos humanos, el comportamiento ético y responsab
 44312;Agrounija d.o.o.;Serbia;Private company;;;
 44313;Archer Daniels Midland Europe B.V;Netherlands;Private company;;;
 44315;Grüne Energie de Alagoas S.A. ;Brazil;Private company;;;Grüne Energie de Alagoas S.A. is a company whose capital is 90% owned by Veolia Brasil. Veolia Brasil, in turn, is owned by Veolia Environnement S.A., a French multinational.
-44316;Massingir Citrus;Mozambique;Private company;https://massingircitrus.com/;;
+44316;Verdant Citrus Massingir;Mozambique;Private company;https://www.verdant-orchards.com/#Orchards;;Initial url https://massingircitrus.com/ has been changed
 44318;Login5 Foundation;Liechtenstein;Private company;https://www.login5.org/privacy-policy/;;Legal Entity Identifier (LEI)	529900WBWSFHMK3PBM32
 44319;Serbia Zijin Copper doo;Serbia;Private company;;;
 44321;Vive energía;Mexico;Private equity firm;https://www.viveenergia.com/#inicio;;
@@ -13234,7 +13234,11 @@ The Company's registered office is at the 3rd Floor JTKC Bldg., 2155 Don Chino R
 47651;Vertis North Project Joint Venture;Philippines;Semi state-owned company;;;Recognizing the economic potential of the North Triangle, which encompasses Sitio San Roque, the NHA established a Public-Private Partnership (PPP) with Ayala Land, Inc. (ALI) in 2009. This collaboration resulted in the Vertis North project, which aimed to transform Sitio San Roque into a central business and lifestyle district.
 47655;National Housing Authority;Philippines;Government institution;;;
 47660;ADP-Agro LLC;Ukraine;Private company;;;National code: 45360065
+47668;Unknown;Uruguay;;;;
+47669;Brasilwood;Brazil;Private company;https://www.brasilwood.net/;;
+47670;Forestal Monterrey Colombia SAS;Colombia;Private company;;;
 47676;Oddormeanchey Power Industrial Co Ltd;Cambodia;Private company;;;Oddormeanchey Power Industrial Co Ltd is a Cambodian company developing the Trapeang Prasat coal-fired power plant project in Oddar Meanchey province
+47678;Apical Reforestadora S de RL;Panama;Private company;https://apical.com.pa/;;
 47680;Siemon (Cambodia) Agricultural Comprehensive Development Co Ltd;Cambodia;Private company;;;
 47681;JVA for Ayarwun-Yadanar Smart District Project;Myanmar;Semi state-owned company;;;The Ayarwun-Yadanar Smart District Project in Myanmar is a joint venture between the government's Department of Urban and Housing Development
 47682;Sinomine Kitumba Minerals Company Limited;Zambia;Private company;;;
@@ -13249,11 +13253,48 @@ All of the company's shares were listed in the Indonesian Stock Exchange (IDX)."
 47697;Eleris Energy Bangladesh LTD;Bangladesh;Private company;;;Eleris Energy Bangladesh LTD is a local subsidiary US-based company, Eleris Energy Global LLC, involved in developing a major integrated solar power project in Bangladesh, through its parent company, Pacific Energy Group. It has been in discussion with the Bangladesh Army Welfare Trust for a large-scale solar project, and its current projects include a 1.4 billion dollar integrated solar energy hub and potentially a 1,000-megawatt project with the Army Welfare Trust.
 47698;Duma TanzGraphite;Tanzania;Private company;;;
 47699;EcoGraf Limited;Australia;Stock-exchange listed company;https://www.ecograf.com.au/investors/;;EcoGraf Limited (ASX:EGR) is a listed company and is subject to the rules of the Australian Securities Exchange (ASX), the Corporations Act 2001 and other Australian and international laws and regulations.
+47700;Mutara Orchards Limited;Kenya;Private company;https://mo.co.ke/;;
 47702;AUM Sugar and Allied Limited (AUM);India;Private company;;;
+47704;Perenco Peru Petroleum Limited;France;Private company;;;
+47708;Ecometals Manganes do Amapa LTDA;Brazil;Private company;;;
 47710;Nature Environment and Wildlife Society (NEWS);India;Non - Profit organization (e.g. Church, University etc.);https://naturewildlife.org/;;The Nature Environment and Wildlife Society (NEWS) is an Indian NGO focused on ecological conservation, sustainable livelihoods, and biodiversity, particularly in critical areas like the Sundarbans, using scientific research, community engagement (especially youth), and policy advocacy to promote ecosystem-based solutions for a better environment and resilient communities.
+47711;Mineração Maracá Indústria e Comércio S/A;Brazil;Private company;https://lundinmining.com/;;
+47712;Tronox Pigmentos do Brasil S.A.;Brazil;Private company;;;
+47713;Tronox Holdings PLC;United States of America;Private company;https://www.tronox.com/about-us/;;
+47714;Belo Sun Mineração Ltda.;Brazil;Private company;https://br.belosun.com/;;It is the Brazilian subsidiary of the Canadian mining company Belo Sun, which is responsible for the development of the open-cast gold project Volta Grande, in the municipality of Senador José Porfírio, in the state of Pará.
+47715;Amarillo Mineração do Brasil Ltda.;Brazil;Private company;https://www.hochschildmining.com/;;
 47716;China Gezhouba Group Overseas Investment Corporation (CGGC);China;State-/government (owned) company;http://www.cggc-unpower.cn/en/info/3.html;;China Gezhouba Group Corporation (CGGC) is a major Chinese state-owned construction and engineering firm, part of China Energy Engineering Corporation (Energy China), known for massive infrastructure projects like hydropower (Three Gorges), transport (roads, railways, bridges), energy, and environmental protection, operating globally and focusing on water conservancy and large-scale infrastructure.
 47717;GMR Upper Karnali Hydro Power Ltd. (GUKHL);Nepal;Private company;https://www.gmrgroup.in/energy/upper-karnali/;;GMR Upper Karnali Hydro Power Ltd. (GUKHL) is the Special Purpose Vehicle (SPV) under India's GMR Group developing the 900 MW Upper Karnali Run-of-River Hydroelectric Project in Nepal, a major project on the Karnali River set to generate power for Nepal, India, and Bangladesh under a Build-Own-Operate-Transfer (BOOT) model, aiming for commercial operation around 2031 with significant clean energy generation and emission reduction.
 47719;Myanmar Changyingou Development Company;Myanmar;Private company;;;Myanmar Changyingou Development Company is a Chinese investment firm primarily involved in large-scale banana plantation development and agriculture in Myanmar, specifically in Kachin State.
 47720;Shwe Taung Company;Myanmar;Private company;https://www.shwetaunggroup.com/;;"Shwe Taung Group of Companies (Burmese: ရွှေတောင်ကုမ္ပဏီအုပ်စု; Shwe Taung Group) is a Myanmar conglomerate. It has a large construction and engineering arm and is the parent company of a cement business in Myanmar. It also own Octagon International Service Trading which is the importer of machinery and construction vehicles.
 
 Shwe Taung Group was formerly known as Olympic Construction Company, and was renamed Shwe Taung Group in 2004 after the banking scandal, money laundering accusation and drug links against the affiliated Asia Wealth Bank by the US department of Treasury and the bank's subsequent sanction in 2003 by the US Government and closure by the Government of Myanmar."
+47721;Kamoto Copper Company (KCC);Congo, Dem. Rep.;Private company;https://www.kamotocoppercompany.com/en;;Kamoto Copper Company - KCC - is a copper and cobalt producer in the Democratic Republic of Congo, jointly owned by Glencore (75%) and Gécamines (25%).
+47722;CSN Mineração S.A.;Brazil;Private company;https://ri.csnmineracao.com.br/en/;;
+47723;Verdant Orchards;Mauritius;Private company;https://www.verdant-orchards.com/#Orchards;;
+47724;Investeringsfonden for Udviklingslande (IFC);Denmark;State-/government (owned) company;https://www.ifu.dk/;;it operates as Impact Fund Denmark
+47725;AGERATEC BV;Netherlands;Private company;;;
+47726;Uniggel Sementes;Brazil;Private company;;;
+47727;Sahel Agrobusiness;Burkina Faso;Private company;;;Little is known about the company which was a shareholder in Faso biocarburant #1123
+47728;Fédération Provinciale des Professionnels Agricoles de la Sissili (FEPPASI);Burkina Faso;Other;;;This is a farmers federation which had equity in #1123
+47729;Fédération/Groupement National des Producteurs (FGPN);Burkina Faso;Other;;;National farmers’ cooperative
+47730;Jacobina Mineração e Comércio Ltda.;Brazil;Private company;https://panamericansilver.com/;;
+47733;Magellan Minerais e Prospecção Geológica Ltda.;Brazil;Private company;https://cabralgold.com/;;Magellan Minerals and Geological Prospecting Ltda. is the Brazilian subsidiary of Cabral Gold Inc., a Canadian gold-focused mining company, with Magellan holding the rights to the important Cuiú Cuiú gold project in Pará, Brazil, and the relationship is directly owned where Cabral Gold (via its subsidiary Cabral Gold B.C. Inc.) owns 100% of Magellan Brazil, which in turn is responsible for developing the Cuiú Cuiú project, which received significant gold funding for its construction.
+47734;Cabral Gold Inc.;Canada;Private company;https://cabralgold.com/;;Cabral Gold Inc. is a mining and exploration company focused primarily on gold properties in Brazil. Its flagship has a 100% stake in the Cuiú Cuiú gold project, located in the state of Pará in northern Brazil. Cabral Gold Inc. was formerly known as San Angelo Oil Limited. The company is headquartered in Vancouver, Canada.
+47735;Chapleau Exploração Mineral Ltda;Brazil;Private company;https://www.serabigold.com/;;"Chapleau Exploração Mineral Ltda. (often referred to simply as ""Chapleau"") is a Brazilian mining company operating as the wholly owned subsidiary of Serabi Gold plc. Its fundamental role is to be the legal owner and local operator of the Coringa Project, currently owning the eight exploration concessions totaling approximately 23,620 hectares in the state of Pará."
+47736;Serabi Gold plc;United Kingdom of Great Britain and Northern Ireland;Private company;https://www.serabigold.com/;;Serabi Gold plc is a UK-based public gold mining company focused on the exploration, development and production of gold in Brazil, with consolidated operations and listed on international stock markets.
+47737;Mineração Vale Verde Ltda.;Brazil;Private company;https://vale-verde.com/;;Mineração Vale Verde belongs to the Baiyin Nonferrous group, one of the largest global players in the non-ferrous metals sector. We have been operating for 4 years, with the commitment to mine the future through copper, a metal essential for the energy transition and the development of sustainable technologies. Our development is located in Craíbas, in the Agreste Alagoano, on the border with Arapiraca. Since the start of operations, we have generated jobs, boosted the local economy and contributed to the development of the region. The Serrote Project is a milestone for mining in Brazil. With an installed capacity to produce 20,000 tons of copper per year and about 84,500 tons of copper concentrate annually, the plant processes approximately 4.1 million tons of ore per year.
+47738;Unknown (Aura Minerals in Brazil);Brazil;Private company;https://www.auraminerals.com/en/;;
+47739;Tellus Participações S/A;Brazil;Private company;;;
+47740;Unknown;Brazil;Private company;;;
+47741;Unknown ( G Mining Ventures Corp., in Brazil);Brazil;Private company;https://gmin.gold/;;
+47744;Schmidt Agricola;Brazil;Private company;https://schmidtagricola.com.br/;;
+47745;Unknown;Brazil;Private company;;;
+47746;Unknown;Brazil;Private company;;;
+47747;Unknown;Brazil;Private company;;;
+47748;China-Union Investment (Liberia) Bong Mines Co. Ltd;Liberia;Private company;;;
+47749;Unknown;Brazil;Private company;;;
+47750;Coopercitrus;Brazil;Private company;https://coopercitrus.com.br;;
+47751;Unknown;Brazil;Private company;;;
+47752;Unknown;Brazil;Private company;;;
+47753;Unknown;Brazil;Private company;;;
