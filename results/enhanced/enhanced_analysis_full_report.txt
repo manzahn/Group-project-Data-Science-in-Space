@@ -1,0 +1,68 @@
+====================================================================================================
+ENHANCED ANALYSIS: LAND DEALS → LITIGATION
+====================================================================================================
+
+1. CLIMATE LITIGATION
+--------------------------------------------------
+Baseline Model (N=50):
+  Train R²: 0.3281
+  Test R²: 0.1412
+  Test RMSE: 1.7576
+
+Coefficients:
+            Feature  Coefficient
+          Num_Deals     0.537114
+   Corruption_Score     0.401803
+     log_Population     0.337095
+Press_Freedom_Score     0.312936
+    Total_Deal_Size    -0.373901
+
+Without USA outlier:
+  Train R²: 0.3198
+  Test R²: -0.1697
+
+
+2. ISDS AGRICULTURE/MINING
+--------------------------------------------------
+Model B Revised (N=80):
+  Train R²: 0.1230
+  Test R²: -0.1296
+  Test RMSE: 0.6275
+
+Coefficients:
+            Feature  Coefficient
+     log_Population     0.122331
+    Total_Deal_Size     0.114842
+          Num_Deals     0.010274
+   Corruption_Score    -0.023978
+Press_Freedom_Score    -0.047426
+
+3. HURDLE MODELS (ZERO-INFLATION)
+--------------------------------------------------
+Climate - Stage 1 (Presence/Absence):
+  Training accuracy: 0.8382
+  Test accuracy: 0.8571
+
+Stage 1 Coefficients:
+            Feature  Coefficient
+     log_Population     1.630767
+Press_Freedom_Score     1.328426
+   Corruption_Score     0.673242
+    Total_Deal_Size     0.566285
+          Num_Deals    -0.468476
+
+ISDS - Stage 1 (Presence/Absence):
+  Training accuracy: 0.5956
+  Test accuracy: 0.4571
+
+Stage 1 Coefficients:
+            Feature  Coefficient
+     log_Population     0.636944
+Press_Freedom_Score     0.491401
+          Num_Deals     0.480849
+    Total_Deal_Size     0.295814
+   Corruption_Score    -0.185651
+
+====================================================================================================
+Analysis complete. See visualizations in results/enhanced/
+====================================================================================================

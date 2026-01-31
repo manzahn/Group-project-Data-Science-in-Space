@@ -1,0 +1,27 @@
+MODEL A: Land Deals → Climate Cases (MINIMAL - 5 predictors)
+==================================================
+
+Sample Size: 50 countries
+Train/Test Split: 40/10
+Observations per predictor: 10.0
+
+COEFFICIENTS:
+            Feature  Coefficient
+          Num_Deals     0.537114
+   Corruption_Score     0.401803
+     log_Population     0.337095
+Press_Freedom_Score     0.312936
+    Total_Deal_Size    -0.373901
+
+Intercept: 1.5984
+
+PERFORMANCE:
+Train R²: 0.3281
+Test R²: 0.1412
+Test RMSE: 1.7576
+Test MAE: 1.2409
+
+INTERACTION TERM:
+Deal_x_Corruption Coefficient: -0.3058
+R² with interaction: 0.3361
+Change in R²: 0.0080

@@ -1,0 +1,16 @@
+MODEL B: Land Deals → ISDS Cases (All Sectors - MINIMAL - 5 predictors)
+==================================================
+
+Sample Size: 113 countries
+Observations per predictor: 22.6
+
+            Feature  Coefficient
+     log_Population     0.218771
+Press_Freedom_Score     0.191190
+    Total_Deal_Size     0.094433
+          Num_Deals     0.074762
+   Corruption_Score    -0.076841
+
+Train R²: 0.0943
+Test R²: -0.1311
+Test RMSE: 0.7381

@@ -1,0 +1,7 @@
+Model,N,Train R²,Test R²,Test RMSE,Notes
+Climate (Baseline),50,0.32805454505578435,0.14117656191590666,1.7575583474234937,With USA outlier
+Climate (No USA),49,0.31984688603581524,-0.1697142838842447,,USA removed
+Climate (Interactions),50,0.46409690083293087,0.08670973319543329,,With 3 interactions
+ISDS Ag/Mining,80,0.12296503234482581,-0.12959340834070554,0.627543878011885,Land-related only
+Climate (Hurdle Stage 1),171,,,,Accuracy: 0.857
+ISDS (Hurdle Stage 1),171,,,,Accuracy: 0.457
